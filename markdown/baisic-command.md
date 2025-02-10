@@ -37,7 +37,7 @@ console.log("hello")
 
 [ ]에 대체 텍스트를 넣어 이미지를 표시할 수 있습니다
 
--![고양이](../assets//다운로드.jpeg)
+-![고양이](../assets//돈벼락%20호머.jpg)
 
 ..이 상대 경대로이다, 어디 위에 commend
 
@@ -60,3 +60,6 @@ console.log("hello")
  하위 항목을 구성할 때, 
 
  [x] 할일목록
+
+ [출처](https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+ )
