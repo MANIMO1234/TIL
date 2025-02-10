@@ -63,3 +63,6 @@ console.log("hello")
 
  [출처](https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
  )
+
+ ![사진](../assets/%20-2.jpg)
+ 
