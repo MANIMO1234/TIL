@@ -25,9 +25,10 @@ command [options] [arguments]
 
     ### cd ( change directory)
     - 현재 작업 디렉토리를 변경합니다
-    - `cd{target-directoruy}`
+    - `cd{target-directory}
         - targert- directory는 자동완성 기능을 활용 (tap)
-
+        -  만약 최상위 폴더 까지 갔을 경우는 파일의 경로을 일일이 업데이트 해야 한다
+        
 ### pwd(print working directory)
  - 현재 작업 중인 디렉토리의 전체 경로를 출력.
 
