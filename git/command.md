@@ -76,3 +76,8 @@ git remote remove {remote_name}
                          - 그럼 저장 장소에 폴더가 생성 됨 , 굳이 터미널을 통해서 들어갈 필요 없긴 하나, 
                          터미널을 이용 하는 것이 별도의 파일로 생성되어 더욱 편하게 사용 가능
 
+## git branch
+
+- git branch : branch 목록 확인 
+- git branch {branch_name}: branch 생성 
+- git branch -d {name of file}
